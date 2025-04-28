@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sobre mim
+Meu nome é Vinicius, tenho 21 anos e sou um desenvolvedor front-end! 
 
-<!--
-**laeffyy/laeffyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
+- **Email**: viniciuslimajoinville@gmail.com
 
-Here are some ideas to get you started:
+# Skills
+### Frontend (Foco Principal)
+![Static Badge](https://img.shields.io/badge/React-gray?logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/Javascript-gray?logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/Next.js-gray?logo=nextdotjs&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Tailwindcss-gray?logo=tailwindcss&logoColor=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Html5-gray?logo=html5&logoColor=%23E34F26)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+![stats](https://github-readme-stats.vercel.app/api?username=laeffyy&show_icons=true&theme=dracula)
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laeffyy&layout=compact&theme=dracula)
